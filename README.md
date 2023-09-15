@@ -10,4 +10,4 @@ In this repository you'll an find existing test with several flaws. Your tasks a
 
 ## Prerequisites
 
-The candidate needs to have .net 7 installed, and preferrable also Visual Studio 2022. Alternatively codesharing, screensharing and 'screen takeover' tools can be used if necessary. Be sure to ask the interviewer about this if you are having any troubles.
+The candidate needs to have .net 7 installed, and also Visual Studio 2022.
