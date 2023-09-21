@@ -10,8 +10,7 @@ namespace selenium_test_task
         [OneTimeSetUp]
         public void Setup()
         {
-            var path = Directory.GetParent(Environment.CurrentDirectory).Parent.Parent.FullName;
-            driver = new ChromeDriver(path + @"\drivers\");
+            driver = new ChromeDriver();
         }
 
         [Test]
